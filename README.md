@@ -7,7 +7,7 @@
 
 <br />
 
-I'm [Shubham Shinde](https://github.com/shindeshubhamm) a passionate developer from Pune, India. Currently pursuing my Masters in Computer Science at University of Siegen, Germany. I love to design and develope elegant user interfaces.
+I'm [Shubham Shinde](https://github.com/shindeshubhamm) a passionate developer from Pune, India. Currently pursuing my Masters in Computer Science at University of Siegen, Germany. I love to design and develop elegant user interfaces.
 
 **Languages and tools:**  
 
