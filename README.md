@@ -7,7 +7,13 @@
 
 <br />
 
-I'm [Shubham Shinde](https://github.com/shindeshubhamm) a passionate developer from Pune, India. Currently pursuing my Masters in Computer Science at University of Siegen, Germany. I love to design and develop elegant user interfaces.
+I'm [Shubham Shinde](https://github.com/shindeshubhamm), a passionate developer from India. Currently pursuing my Masters in Computer Science at the University of Siegen in Germany. I've 2+ years of work experience in software industry.
+
+For the past few years, I have been working with web applications. I have experience in building product grounds up. I have held positions at both startup and established product-based companies. My skills include creating UI designs along with UX consideration for the products and converting the designs to web applications using modern technologies. I have worked on all aspects of the product life cycle, including strategic planning, development, deployment, and maintenance.
+
+Over the years of my experience, I’ve managed the development of cutting-edge systems using Javascript/React, HTML, SASS, Next JS, Node JS, MongoDB and other Javascript frameworks. In order to provide the best user experience and increase customer lifetime value, I effectively collaborate on solutions with our product and marketing departments.
+
+Looking for new & challenging opportunities!
 
 **Languages and tools:**  
 
