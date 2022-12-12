@@ -7,7 +7,7 @@
 
 <br />
 
-I'm [Shubham Shinde](https://github.com/shindeshubhamm), a passionate developer from India. Currently pursuing my Masters in Computer Science at the University of Siegen in Germany. I've 2+ years of work experience in software industry.
+I'm [Shubham Shinde](https://github.com/shindeshubhamm), a passionate developer currently based in Germany. I've 2+ years of work experience in software industry.
 
 For the past few years, I have been working with web applications. I have experience in building product grounds up. I have held positions at both startup and established product-based companies. My skills include creating UI designs along with UX consideration for the products and converting the designs to web applications using modern technologies. I have worked on all aspects of the product life cycle, including strategic planning, development, deployment, and maintenance.
 
