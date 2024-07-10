@@ -3,8 +3,6 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=shindeshubhamm.shindeshubhamm)
-
 <br />
 
 <p style="font-size: 14px;">
