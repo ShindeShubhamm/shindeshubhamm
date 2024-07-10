@@ -1,7 +1,4 @@
 ### Hello 👋
-<a href="https://www.linkedin.com/in/shindeshubhamm/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
 
 <br />
 
