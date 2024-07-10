@@ -1,6 +1,6 @@
 ### Hello 👋
 <a href="https://www.linkedin.com/in/shindeshubhamm/">
-  <img align="left" alt="Shubham's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shindeshubhamm.shindeshubhamm)
